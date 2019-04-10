@@ -1,0 +1,464 @@
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\ApplicationInsights.config
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\roslyn\csc.exe
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\roslyn\System.Collections.Immutable.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\roslyn\vbc.exe
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\roslyn\VBCSCompiler.exe
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\roslyn\VBCSCompiler.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\BigSchool.dll.config
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\BigSchool.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\BigSchool.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\Antlr3.Runtime.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\EntityFramework.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\EntityFramework.SqlServer.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.AI.Web.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.AI.WindowsServer.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.ApplicationInsights.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.Owin.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.Owin.Security.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.Owin.Security.Google.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.Web.Infrastructure.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\Newtonsoft.Json.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\Owin.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\System.Web.Helpers.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\System.Web.Mvc.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\System.Web.Optimization.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\System.Web.Razor.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\System.Web.WebPages.Deployment.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\System.Web.WebPages.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\System.Web.WebPages.Razor.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\WebGrease.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.AI.Web.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.AI.WindowsServer.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.ApplicationInsights.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\System.Web.Helpers.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\System.Web.Mvc.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\System.Web.Optimization.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\System.Web.Razor.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\System.Web.WebPages.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\System.Web.WebPages.Deployment.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\System.Web.WebPages.Razor.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\Antlr3.Runtime.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\Newtonsoft.Json.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\EntityFramework.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\EntityFramework.SqlServer.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.Owin.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.Owin.Security.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.Owin.Security.Google.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\obj\Debug\BigSchool.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\obj\Debug\BigSchool.dll
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\obj\Debug\BigSchool.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.InitialModel.resources
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\obj\Debug\BigSchool.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.CreateTableCourse.resources
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.PopulateCategoryTable.resources
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddNameColumnToApplicationUser.resources
+H:\project\BigSchool\BigSchool\bin\ApplicationInsights.config
+H:\project\BigSchool\BigSchool\bin\roslyn\csc.exe
+H:\project\BigSchool\BigSchool\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\project\BigSchool\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\project\BigSchool\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\project\BigSchool\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\project\BigSchool\BigSchool\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\project\BigSchool\BigSchool\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\project\BigSchool\BigSchool\bin\roslyn\System.Collections.Immutable.dll
+H:\project\BigSchool\BigSchool\bin\roslyn\System.Reflection.Metadata.dll
+H:\project\BigSchool\BigSchool\bin\roslyn\vbc.exe
+H:\project\BigSchool\BigSchool\bin\roslyn\VBCSCompiler.exe
+H:\project\BigSchool\BigSchool\bin\roslyn\VBCSCompiler.exe.config
+H:\project\BigSchool\BigSchool\bin\BigSchool.dll.config
+H:\project\BigSchool\BigSchool\bin\BigSchool.dll
+H:\project\BigSchool\BigSchool\bin\BigSchool.pdb
+H:\project\BigSchool\BigSchool\bin\Antlr3.Runtime.dll
+H:\project\BigSchool\BigSchool\bin\EntityFramework.dll
+H:\project\BigSchool\BigSchool\bin\EntityFramework.SqlServer.dll
+H:\project\BigSchool\BigSchool\bin\Microsoft.AI.Agent.Intercept.dll
+H:\project\BigSchool\BigSchool\bin\Microsoft.AI.DependencyCollector.dll
+H:\project\BigSchool\BigSchool\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\project\BigSchool\BigSchool\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\project\BigSchool\BigSchool\bin\Microsoft.AI.Web.dll
+H:\project\BigSchool\BigSchool\bin\Microsoft.AI.WindowsServer.dll
+H:\project\BigSchool\BigSchool\bin\Microsoft.ApplicationInsights.dll
+H:\project\BigSchool\BigSchool\bin\Microsoft.AspNet.Identity.Core.dll
+H:\project\BigSchool\BigSchool\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\project\BigSchool\BigSchool\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\project\BigSchool\BigSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\project\BigSchool\BigSchool\bin\Microsoft.Owin.dll
+H:\project\BigSchool\BigSchool\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\project\BigSchool\BigSchool\bin\Microsoft.Owin.Security.Cookies.dll
+H:\project\BigSchool\BigSchool\bin\Microsoft.Owin.Security.dll
+H:\project\BigSchool\BigSchool\bin\Microsoft.Owin.Security.Facebook.dll
+H:\project\BigSchool\BigSchool\bin\Microsoft.Owin.Security.Google.dll
+H:\project\BigSchool\BigSchool\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\project\BigSchool\BigSchool\bin\Microsoft.Owin.Security.OAuth.dll
+H:\project\BigSchool\BigSchool\bin\Microsoft.Owin.Security.Twitter.dll
+H:\project\BigSchool\BigSchool\bin\Microsoft.Web.Infrastructure.dll
+H:\project\BigSchool\BigSchool\bin\Newtonsoft.Json.dll
+H:\project\BigSchool\BigSchool\bin\Owin.dll
+H:\project\BigSchool\BigSchool\bin\System.Web.Helpers.dll
+H:\project\BigSchool\BigSchool\bin\System.Web.Mvc.dll
+H:\project\BigSchool\BigSchool\bin\System.Web.Optimization.dll
+H:\project\BigSchool\BigSchool\bin\System.Web.Razor.dll
+H:\project\BigSchool\BigSchool\bin\System.Web.WebPages.Deployment.dll
+H:\project\BigSchool\BigSchool\bin\System.Web.WebPages.dll
+H:\project\BigSchool\BigSchool\bin\System.Web.WebPages.Razor.dll
+H:\project\BigSchool\BigSchool\bin\WebGrease.dll
+H:\project\BigSchool\BigSchool\bin\Microsoft.AI.DependencyCollector.xml
+H:\project\BigSchool\BigSchool\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\project\BigSchool\BigSchool\bin\Microsoft.AI.Web.xml
+H:\project\BigSchool\BigSchool\bin\Microsoft.AI.WindowsServer.xml
+H:\project\BigSchool\BigSchool\bin\Microsoft.ApplicationInsights.xml
+H:\project\BigSchool\BigSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\project\BigSchool\BigSchool\bin\System.Web.Helpers.xml
+H:\project\BigSchool\BigSchool\bin\System.Web.Mvc.xml
+H:\project\BigSchool\BigSchool\bin\System.Web.Optimization.xml
+H:\project\BigSchool\BigSchool\bin\System.Web.Razor.xml
+H:\project\BigSchool\BigSchool\bin\System.Web.WebPages.xml
+H:\project\BigSchool\BigSchool\bin\System.Web.WebPages.Deployment.xml
+H:\project\BigSchool\BigSchool\bin\System.Web.WebPages.Razor.xml
+H:\project\BigSchool\BigSchool\bin\Antlr3.Runtime.pdb
+H:\project\BigSchool\BigSchool\bin\Newtonsoft.Json.xml
+H:\project\BigSchool\BigSchool\bin\EntityFramework.xml
+H:\project\BigSchool\BigSchool\bin\EntityFramework.SqlServer.xml
+H:\project\BigSchool\BigSchool\bin\Microsoft.AspNet.Identity.Core.xml
+H:\project\BigSchool\BigSchool\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\project\BigSchool\BigSchool\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\project\BigSchool\BigSchool\bin\Microsoft.Owin.xml
+H:\project\BigSchool\BigSchool\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\project\BigSchool\BigSchool\bin\Microsoft.Owin.Security.xml
+H:\project\BigSchool\BigSchool\bin\Microsoft.Owin.Security.Facebook.xml
+H:\project\BigSchool\BigSchool\bin\Microsoft.Owin.Security.Cookies.xml
+H:\project\BigSchool\BigSchool\bin\Microsoft.Owin.Security.OAuth.xml
+H:\project\BigSchool\BigSchool\bin\Microsoft.Owin.Security.Google.xml
+H:\project\BigSchool\BigSchool\bin\Microsoft.Owin.Security.Twitter.xml
+H:\project\BigSchool\BigSchool\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\project\BigSchool\BigSchool\obj\Debug\BigSchool.csprojResolveAssemblyReference.cache
+H:\project\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.InitialModel.resources
+H:\project\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.CreateTableCourse.resources
+H:\project\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.PopulateCategoryTable.resources
+H:\project\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddNameColumnToApplicationUser.resources
+H:\project\BigSchool\BigSchool\obj\Debug\BigSchool.csproj.GenerateResource.Cache
+H:\project\BigSchool\BigSchool\obj\Debug\BigSchool.dll
+H:\project\BigSchool\BigSchool\obj\Debug\BigSchool.pdb
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\ApplicationInsights.config
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\roslyn\csc.exe
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\roslyn\vbc.exe
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\roslyn\VBCSCompiler.exe
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\BigSchool.dll.config
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\BigSchool.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\BigSchool.pdb
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\Antlr3.Runtime.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\EntityFramework.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\EntityFramework.SqlServer.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.AI.Web.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.ApplicationInsights.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.Owin.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.Owin.Security.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\Newtonsoft.Json.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\Owin.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\System.Web.Helpers.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\System.Web.Mvc.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\System.Web.Optimization.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\System.Web.Razor.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\System.Web.WebPages.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\System.Web.WebPages.Razor.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\WebGrease.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.AI.Web.xml
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.ApplicationInsights.xml
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\System.Web.Helpers.xml
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\System.Web.Mvc.xml
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\System.Web.Optimization.xml
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\System.Web.Razor.xml
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\System.Web.WebPages.xml
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\System.Web.WebPages.Razor.xml
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\Antlr3.Runtime.pdb
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\Newtonsoft.Json.xml
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\EntityFramework.xml
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\EntityFramework.SqlServer.xml
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.Owin.xml
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.Owin.Security.xml
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\obj\Debug\BigSchool.csprojResolveAssemblyReference.cache
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.InitialModel.resources
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.CreateTableCourse.resources
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.PopulateCategoryTable.resources
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddNameColumnToApplicationUser.resources
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\obj\Debug\BigSchool.csproj.GenerateResource.Cache
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\obj\Debug\BigSchool.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\obj\Debug\BigSchool.pdb
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddAttendance.resources
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\System.Net.Http.Formatting.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\System.Web.Http.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\System.Web.Http.WebHost.dll
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\System.Net.Http.Formatting.xml
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\System.Web.Http.xml
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\bin\System.Web.Http.WebHost.xml
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddFollowingsTable.resources
+C:\Users\tuan\Documents\Visual Studio 2015\Projects\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddIsCanceledColumnToCourse.resources
+E:\ThucHanh\BigSchool\BigSchool\bin\ApplicationInsights.config
+E:\ThucHanh\BigSchool\BigSchool\bin\roslyn\csc.exe
+E:\ThucHanh\BigSchool\BigSchool\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ThucHanh\BigSchool\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ThucHanh\BigSchool\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ThucHanh\BigSchool\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ThucHanh\BigSchool\BigSchool\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ThucHanh\BigSchool\BigSchool\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ThucHanh\BigSchool\BigSchool\bin\roslyn\System.Collections.Immutable.dll
+E:\ThucHanh\BigSchool\BigSchool\bin\roslyn\System.Reflection.Metadata.dll
+E:\ThucHanh\BigSchool\BigSchool\bin\roslyn\vbc.exe
+E:\ThucHanh\BigSchool\BigSchool\bin\roslyn\VBCSCompiler.exe
+E:\ThucHanh\BigSchool\BigSchool\bin\roslyn\VBCSCompiler.exe.config
+E:\ThucHanh\BigSchool\BigSchool\bin\BigSchool.dll.config
+E:\ThucHanh\BigSchool\BigSchool\bin\BigSchool.dll
+E:\ThucHanh\BigSchool\BigSchool\bin\BigSchool.pdb
+E:\ThucHanh\BigSchool\BigSchool\bin\Antlr3.Runtime.dll
+E:\ThucHanh\BigSchool\BigSchool\bin\EntityFramework.dll
+E:\ThucHanh\BigSchool\BigSchool\bin\EntityFramework.SqlServer.dll
+E:\ThucHanh\BigSchool\BigSchool\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ThucHanh\BigSchool\BigSchool\bin\Microsoft.AI.DependencyCollector.dll
+E:\ThucHanh\BigSchool\BigSchool\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ThucHanh\BigSchool\BigSchool\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ThucHanh\BigSchool\BigSchool\bin\Microsoft.AI.Web.dll
+E:\ThucHanh\BigSchool\BigSchool\bin\Microsoft.AI.WindowsServer.dll
+E:\ThucHanh\BigSchool\BigSchool\bin\Microsoft.ApplicationInsights.dll
+E:\ThucHanh\BigSchool\BigSchool\bin\Microsoft.AspNet.Identity.Core.dll
+E:\ThucHanh\BigSchool\BigSchool\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ThucHanh\BigSchool\BigSchool\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\ThucHanh\BigSchool\BigSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ThucHanh\BigSchool\BigSchool\bin\Microsoft.Owin.dll
+E:\ThucHanh\BigSchool\BigSchool\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\ThucHanh\BigSchool\BigSchool\bin\Microsoft.Owin.Security.Cookies.dll
+E:\ThucHanh\BigSchool\BigSchool\bin\Microsoft.Owin.Security.dll
+E:\ThucHanh\BigSchool\BigSchool\bin\Microsoft.Owin.Security.Facebook.dll
+E:\ThucHanh\BigSchool\BigSchool\bin\Microsoft.Owin.Security.Google.dll
+E:\ThucHanh\BigSchool\BigSchool\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\ThucHanh\BigSchool\BigSchool\bin\Microsoft.Owin.Security.OAuth.dll
+E:\ThucHanh\BigSchool\BigSchool\bin\Microsoft.Owin.Security.Twitter.dll
+E:\ThucHanh\BigSchool\BigSchool\bin\Microsoft.Web.Infrastructure.dll
+E:\ThucHanh\BigSchool\BigSchool\bin\Newtonsoft.Json.dll
+E:\ThucHanh\BigSchool\BigSchool\bin\Owin.dll
+E:\ThucHanh\BigSchool\BigSchool\bin\System.Net.Http.Formatting.dll
+E:\ThucHanh\BigSchool\BigSchool\bin\System.Web.Helpers.dll
+E:\ThucHanh\BigSchool\BigSchool\bin\System.Web.Http.dll
+E:\ThucHanh\BigSchool\BigSchool\bin\System.Web.Http.WebHost.dll
+E:\ThucHanh\BigSchool\BigSchool\bin\System.Web.Mvc.dll
+E:\ThucHanh\BigSchool\BigSchool\bin\System.Web.Optimization.dll
+E:\ThucHanh\BigSchool\BigSchool\bin\System.Web.Razor.dll
+E:\ThucHanh\BigSchool\BigSchool\bin\System.Web.WebPages.Deployment.dll
+E:\ThucHanh\BigSchool\BigSchool\bin\System.Web.WebPages.dll
+E:\ThucHanh\BigSchool\BigSchool\bin\System.Web.WebPages.Razor.dll
+E:\ThucHanh\BigSchool\BigSchool\bin\WebGrease.dll
+E:\ThucHanh\BigSchool\BigSchool\bin\Microsoft.AI.DependencyCollector.xml
+E:\ThucHanh\BigSchool\BigSchool\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ThucHanh\BigSchool\BigSchool\bin\Microsoft.AI.Web.xml
+E:\ThucHanh\BigSchool\BigSchool\bin\Microsoft.AI.WindowsServer.xml
+E:\ThucHanh\BigSchool\BigSchool\bin\Microsoft.ApplicationInsights.xml
+E:\ThucHanh\BigSchool\BigSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ThucHanh\BigSchool\BigSchool\bin\System.Net.Http.Formatting.xml
+E:\ThucHanh\BigSchool\BigSchool\bin\System.Web.Http.xml
+E:\ThucHanh\BigSchool\BigSchool\bin\System.Web.Http.WebHost.xml
+E:\ThucHanh\BigSchool\BigSchool\bin\System.Web.Helpers.xml
+E:\ThucHanh\BigSchool\BigSchool\bin\System.Web.Mvc.xml
+E:\ThucHanh\BigSchool\BigSchool\bin\System.Web.Optimization.xml
+E:\ThucHanh\BigSchool\BigSchool\bin\System.Web.Razor.xml
+E:\ThucHanh\BigSchool\BigSchool\bin\System.Web.WebPages.xml
+E:\ThucHanh\BigSchool\BigSchool\bin\System.Web.WebPages.Deployment.xml
+E:\ThucHanh\BigSchool\BigSchool\bin\System.Web.WebPages.Razor.xml
+E:\ThucHanh\BigSchool\BigSchool\bin\Antlr3.Runtime.pdb
+E:\ThucHanh\BigSchool\BigSchool\bin\Newtonsoft.Json.xml
+E:\ThucHanh\BigSchool\BigSchool\bin\EntityFramework.xml
+E:\ThucHanh\BigSchool\BigSchool\bin\EntityFramework.SqlServer.xml
+E:\ThucHanh\BigSchool\BigSchool\bin\Microsoft.AspNet.Identity.Core.xml
+E:\ThucHanh\BigSchool\BigSchool\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\ThucHanh\BigSchool\BigSchool\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ThucHanh\BigSchool\BigSchool\bin\Microsoft.Owin.xml
+E:\ThucHanh\BigSchool\BigSchool\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\ThucHanh\BigSchool\BigSchool\bin\Microsoft.Owin.Security.xml
+E:\ThucHanh\BigSchool\BigSchool\bin\Microsoft.Owin.Security.Facebook.xml
+E:\ThucHanh\BigSchool\BigSchool\bin\Microsoft.Owin.Security.Cookies.xml
+E:\ThucHanh\BigSchool\BigSchool\bin\Microsoft.Owin.Security.OAuth.xml
+E:\ThucHanh\BigSchool\BigSchool\bin\Microsoft.Owin.Security.Google.xml
+E:\ThucHanh\BigSchool\BigSchool\bin\Microsoft.Owin.Security.Twitter.xml
+E:\ThucHanh\BigSchool\BigSchool\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\ThucHanh\BigSchool\BigSchool\obj\Debug\BigSchool.csprojAssemblyReference.cache
+E:\ThucHanh\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.InitialModel.resources
+E:\ThucHanh\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.CreateTableCourse.resources
+E:\ThucHanh\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.PopulateCategoryTable.resources
+E:\ThucHanh\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddNameColumnToApplicationUser.resources
+E:\ThucHanh\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddAttendance.resources
+E:\ThucHanh\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddFollowingsTable.resources
+E:\ThucHanh\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddIsCanceledColumnToCourse.resources
+E:\ThucHanh\BigSchool\BigSchool\obj\Debug\BigSchool.csproj.GenerateResource.cache
+E:\ThucHanh\BigSchool\BigSchool\obj\Debug\BigSchool.csproj.CoreCompileInputs.cache
+E:\ThucHanh\BigSchool\BigSchool\obj\Debug\BigSchool.csproj.CopyComplete
+E:\ThucHanh\BigSchool\BigSchool\obj\Debug\BigSchool.dll
+E:\ThucHanh\BigSchool\BigSchool\obj\Debug\BigSchool.pdb
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\ApplicationInsights.config
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\roslyn\csc.exe
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\roslyn\vbc.exe
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\BigSchool.dll.config
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\BigSchool.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\BigSchool.pdb
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\EntityFramework.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\Microsoft.AI.Web.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\Microsoft.Owin.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\Microsoft.Owin.Security.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\Owin.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\System.Web.Http.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\WebGrease.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\Microsoft.AI.Web.xml
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\System.Web.Http.xml
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\EntityFramework.xml
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\Microsoft.Owin.xml
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\Microsoft.Owin.Security.xml
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\obj\Debug\BigSchool.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.InitialModel.resources
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.CreateTableCourse.resources
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.PopulateCategoryTable.resources
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddNameColumnToApplicationUser.resources
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddAttendance.resources
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddFollowingsTable.resources
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddIsCanceledColumnToCourse.resources
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\obj\Debug\BigSchool.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\obj\Debug\BigSchool.dll
+C:\Users\Administrator\Desktop\BigSchool\BigSchool\obj\Debug\BigSchool.pdb
